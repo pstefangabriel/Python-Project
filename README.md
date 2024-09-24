@@ -53,4 +53,4 @@ that it should be, but at least I experimented with dictionary of dictionarys.
 
 ### Overall
 
-This is definetly not my best work. I made a lot of mistakes while also learning a lot of cool stuff that I carried in my next project:https://github.com/pstefangabriel/Lab9
+This is definetly not my best work. I made a lot of mistakes while also learning a lot of cool stuff that I carried in my next project:https://github.com/pstefangabriel/Pharmacy
